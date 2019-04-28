@@ -25,7 +25,7 @@ In standard pubmats/collaterals, we use a monochromatic color scheme based on bl
 
 White is the other main color we use; we try to avoid using pure white (#FFFFFF), and instead use a light lavender (#e0e4ee). Sometimes, we use lavender (#7783d6) and cyan as accent colors; see below for example usage.
 
-<center><img src="https://imgur.com/41zdZ4m" width="400px" alt="Developh Color Palette With Sample Usage"></center>
+<center><img src="https://i.imgur.com/41zdZ4m.png" width="400px" alt="Developh Color Palette With Sample Usage"></center>
 
 In special cases/campigns, the color palette may be allowed deviate from this standard. It must, however, **still include at least one of the main colors: blue and white**. See below for examples of special cases.
 
@@ -43,7 +43,7 @@ We use graphics to help visualize our messages, which often contain abstract con
 
 However, in cases where generic icons aren't enough, we use custom-made illustrations. These are lineless, and rely on gradients for shading. As much as possible, we want to avoid the generic look illustrations in tech tend to have (see undraw.co as an example). Basically, we want our illustrations to look like they were drawn by a human, not a machine. There's some leeway for a "generic" look in illustrating abstract concepts like opportunity, but a unique look is strictly required for drawing anything involving humans. 
 
-<center><img src="https://imgur.com/3ooyGR7" width="400px" alt="Illustration Samples"></center>
+<center><img src="https://i.imgur.com/3ooyGR7.png" width="400px" alt="Illustration Samples"></center>
 
 ## Voice and Tone
 
