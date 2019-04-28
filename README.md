@@ -39,7 +39,7 @@ We use HK Grostesk as our BODY FONT, with Work Sans as a Google-friendly fallbac
 
 We use graphics to help visualize our messages, which often contain abstract concepts like innovation and education.. Generic technology icons are often used to decorate standard pubmats. 
 
-<center><img src="https://www.facebook.com/develophorg/photos/a.2235632960094132/2324909667833127/" width="400px" alt="Icon Sample"></center>
+<center><img src="https://scontent.fmnl18-1.fna.fbcdn.net/v/t1.0-9/47389852_2324909671166460_9127255363169550336_n.png?_nc_cat=105&_nc_ht=scontent.fmnl18-1.fna&oh=d99e05d8191c63dbfc2d580bbe7023d3&oe=5D2BFE0D" width="400px" alt="Icon Sample"></center>
 
 However, in cases where generic icons aren't enough, we use custom-made illustrations. These are lineless, and rely on gradients for shading. As much as possible, we want to avoid the generic look illustrations in tech tend to have (see undraw.co as an example). Basically, we want our illustrations to look like they were drawn by a human, not a machine. There's some leeway for a "generic" look in illustrating abstract concepts like opportunity, but a unique look is strictly required for drawing anything involving humans. 
 
