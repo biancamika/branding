@@ -29,6 +29,8 @@ White is the other main color we use; we try to avoid using pure white (#FFFFFF)
 
 In special cases/campigns, the color palette may be allowed deviate from this standard. It must, however, **still include at least one of the main colors: blue and white**. See below for examples of special cases.
 
+<center><img src="https://i.imgur.com/BXuGLTh.png" width="400px" alt="Developh Color Palette Deviation Samples"></center>
+
 ## Typeface
 
 For HEADERS/SUBHEADERS, we use both Poppins and Termina.
